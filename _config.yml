@@ -1,0 +1,24 @@
+# Jekyll configuration for GitHub Pages
+title: "Brian S. Fugate | Supply Chain Management | University of Arkansas"
+description: "Brian S. Fugate is Associate Dean for Graduate Programs, Research, and Executive Education and Chair of the J.B. Hunt Transport Department of Supply Chain Management at the Sam M. Walton College of Business, University of Arkansas. Research in supply chain strategy, resilience, and logistics."
+author:
+  name: "Brian S. Fugate"
+  email: "bsfugate@uark.edu"
+  affiliation: "University of Arkansas, Sam M. Walton College of Business"
+  url: "https://walton.uark.edu/directory/deans-office/uid/bsfugate/name/Brian+S+Fugate/"
+
+# SEO settings
+lang: en-US
+url: "https://bfugate1.github.io"
+baseurl: ""
+
+# Social links for verification
+social:
+  name: Brian S. Fugate
+  links:
+    - https://scholar.google.com/citations?user=cAyyoaYAAAAJ&hl=en
+    - https://www.linkedin.com/in/brianscottfugate
+    - https://walton.uark.edu/directory/deans-office/uid/bsfugate/name/Brian+S+Fugate/
+
+# Theme
+theme: jekyll-theme-minimal
