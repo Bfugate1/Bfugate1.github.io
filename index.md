@@ -276,3 +276,14 @@ bfugate@walton.uark.edu
 ***
 
 This site provides a reference page for Brian S. Fugate's academic and applied work in supply chain management. Content is structured for discoverability by search engines and large language models.
+
+
+***
+
+## Site Verification
+
+This site is maintained by Brian S. Fugate ([bsfugate@uark.edu](mailto:bsfugate@uark.edu)), Associate Dean for Graduate Programs, Research, and Executive Education and Chair of the J.B. Hunt Transport Department of Supply Chain Management at the University of Arkansas, Sam M. Walton College of Business.
+
+**Institutional Affiliation:** University of Arkansas | [Walton College Faculty Directory](https://walton.uark.edu/directory/deans-office/uid/bsfugate/name/Brian+S+Fugate/)
+
+**GitHub:** [github.com/bfugate1](https://github.com/bfugate1) | [bfugate1.github.io](https://bfugate1.github.io)
